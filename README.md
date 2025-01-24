@@ -6,23 +6,23 @@
 ## Welcome Home
 
 <center class="half">
-<img src="inputs/cen1DKGlOnMmo.jpg" width="400"/>
-<img src="outputs/cen1DKGlOnMmo.jpg_m.png" width="400"/>
+<img src="inputs/cen1DKGlOnMmo.jpg" width="350"/>
+<img src="outputs/cen1DKGlOnMmo.jpg_m.png" width="350"/>
 </center>
 
 <center class="half">
-<img src="inputs/Nikon-Z7-00025.jpg" width="400"/>
-<img src="outputs/Nikon-Z7-00025.jpg_m.png" width="400"/>
+<img src="inputs/Nikon-Z7-00025.jpg" width="350"/>
+<img src="outputs/Nikon-Z7-00025.jpg_m.png" width="350"/>
 </center>
 
 <center class="half">
-<img src="inputs/20220420064229_13691.jpg" width="400"/>
-<img src="outputs/20220420064229_13691.jpg_m.png" width="400"/>
+<img src="inputs/20220420064229_13691.jpg" width="350"/>
+<img src="outputs/20220420064229_13691.jpg_m.png" width="350"/>
 </center>
 
 <center class="half">
-<img src="inputs/P1000149.JPG" width="400"/>
-<img src="outputs/P1000149.JPG_m.png" width="400"/>
+<img src="inputs/P1000149.JPG" width="350"/>
+<img src="outputs/P1000149.JPG_m.png" width="350"/>
 </center>
 
 ## 项目说明
