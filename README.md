@@ -1,8 +1,5 @@
 # Phototags
 
-## 目录
-[toc]
-
 ## Welcome Home
 
 <center class="half">
