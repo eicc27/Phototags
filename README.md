@@ -42,7 +42,7 @@
 
 ### 使用
 
-导航到`main.py`中， `add_metadata("./inputs", "./outputs")`函数的第一个参数`"./inputs"`为输入图片的文件夹；第二个参数`"./outputs"`为输出图片的文件夹。程序运行过程中会产生`index.html`的临时文件。
+导航到`main.py`中， `add_metadata("./inputs", "./outputs")`函数的第一个参数`"./inputs"`为输入图片的文件夹；第二个参数`"./outputs"`为输出图片的文件夹。程序运行过程中会产生`index.html`的临时文件。需要保证所有图片均为常见的格式（jpg, png等），使用封装格式（avif, rw2等）等可能导致程序无法读取图片信息。
 
 运行：
 
